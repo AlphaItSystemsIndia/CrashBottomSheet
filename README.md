@@ -1,6 +1,6 @@
 # CrashBottomSheet Library for Android
 
-This library allows android applications to launch a nice beautiful BottomSheetDialog when app crashes instead of displaying a rude, disgusting and universally hated "Unfortunately, X App has stopped!" dialog.
+This library allows android applications to launch a nice beautiful BottomSheetDialog when app crashes instead of displaying a rude and universally hated "Unfortunately, X App has stopped!" dialog.
 
 ## Before (ugly crash dialog)
 
